@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+desktop.ini
+*/.Rproj.user
+.RData
+*/*.RData
+*_cache
+*.rds
